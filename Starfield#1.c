@@ -3,10 +3,6 @@
 #include <time.h>
 #include <SDL2/SDL.h>
 
-/*
-    
-*/
-
 typedef enum {false, true} bool;
 
 const int NUMBER_OF_STARS = 200;
